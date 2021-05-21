@@ -1,4 +1,4 @@
-package console_util
+package console
 
 import "fmt"
 
